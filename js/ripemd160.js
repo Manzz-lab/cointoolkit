@@ -5,7 +5,7 @@ code.google.com/p/crypto-js
 code.google.com/p/crypto-js/wiki/License
 */
 /** @preserve
-(c) 2012 by CÃ©dric Mesnil. All rights reserved.
+(c) 2012 by Cédric Mesnil. All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
